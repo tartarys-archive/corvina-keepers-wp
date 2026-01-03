@@ -21,10 +21,11 @@ structures, and constraints of the Corvina Keepers system.
 
 ## White Paper
 
-📄 **Corvina Keepers – White Paper v1 (PDF)**  
-https://raw.githubusercontent.com/tartarys-archive/corvina-keepers-wp/blob/main/paper/corvina--keepers-wp.pdf
 
-This repository documents **version 1** of the Corvina Keepers framework.
+
+This repository documents **version 1** of the Corvina Keepers framework.📄 Corvina Keepers White Paper v1 (PDF)  
+https://raw.githubusercontent.com/tartarys-archive/corvina-keepers-wp/main/paper/corvina--keepers-wp.pdf
+
 
 Version 1 is intentionally minimal and demonstrative:
 - it defines the ethical and structural foundation,
