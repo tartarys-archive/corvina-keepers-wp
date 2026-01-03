@@ -22,7 +22,7 @@ structures, and constraints of the Corvina Keepers system.
 ## White Paper
 
 📄 **Corvina Keepers – White Paper v1 (PDF)**  
-https://raw.githubusercontent.com/<REPO_PATH>/paper/corvina-keepers-whitepaper-v1.pdf
+https://raw.githubusercontent.com/tartarys-archive/corvina-keepers-wp/paper/corvina-keepers-whitepaper-v1.pdf
 
 ---
 
