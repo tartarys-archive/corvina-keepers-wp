@@ -24,10 +24,28 @@ structures, and constraints of the Corvina Keepers system.
 
 
 This repository documents **version 1** of the Corvina Keepers framework.📄 Corvina Keepers White Paper v1 (PDF)  
-https://raw.githubusercontent.com/tartarys-archive/corvina-keepers-wp/main/paper/corvina--keepers-wp.pdf
 
 
-Version 1 is intentionally minimal and demonstrative:
+
+Version 1 is intentionally minimal and demonstrative:## 📄 White Paper – Direct Access
+
+The Corvina Keepers White Paper v1 is available as a PDF file in this repository.
+
+### 🔗 Standard GitHub view
+You can browse the document directly on GitHub:
+https://github.com/tartarys-archive/corvina-keepers-wp/blob/main/paper/corvina-keepers-wp-v1.pdf
+
+### ⬇️ Direct (Raw) download link
+For direct download or external sharing, use the **Raw** file link:
+https://raw.githubusercontent.com/tartarys-archive/corvina-keepers-wp/main/paper/corvina-keepers-wp-v1.pdf
+
+This Raw link provides:
+- a stable, versioned reference
+- a verifiable timestamp via GitHub commits
+- compatibility with external platforms and archives
+
+Recommended for citation, sharing, and long-term reference.
+
 - it defines the ethical and structural foundation,
 - it is sufficient for the first smart contract implementation,
 - it serves as a practical example of custodial minting in action.
